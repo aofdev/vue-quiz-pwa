@@ -1,6 +1,8 @@
 # vue-quiz-pwa
 
-> A Vue.js project
+> Vue Quiz with Progressive Web Apps
+
+![alt tag](https://i.imgur.com/8KJ4wdu.png)
 
 ## Build Setup
 
@@ -17,5 +19,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
